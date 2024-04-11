@@ -1,42 +1,22 @@
-# Thales Open Source Template Project
+# Security Plan for Machine Learning Systems
 
-Template for creating a new project in the [Thales GitHub organization](https://github.com/ThalesGroup).
+A framework to secure machine learning datasets, models, underlying platform, compliance with internal and external requirements, and to humans involved in ML.
 
-Each Thales OSS project repository **MUST** contain the following files at the root:
+**![image](https://github.com/ThalesGroup/secure-ml/assets/100698628/9dd88744-4274-40ac-b089-03a441d4c555)**
 
-- a `LICENSE` which has been chosen in accordance with legal department depending on your needs
-
-- a `README.md` outlining the project goals, sponsoring sig, and community contact information, [GitHub tips about README.md](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
-
-- a `CONTRIBUTING.md` outlining how to contribute to the project, how to submit a pull request and an issue
-
-- a `SECURITY.md` outlining how the security concerns are handled, [GitHub tips about SECURITY.md](https://docs.github.com/en/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository)
-
-Below is an example of the common structure and information expected in a README.
-
-**Please keep this structure as is and only fill the content for each section according to your project.**
-
-If you need assistance or have question, please contact oss@thalesgroup.com
+If you need assistance or have question, please contact [@vchirrav](https://twitter.com/vchirrav)
 
 ## Get started
 
-XXX project purpose it to ...
-
-**Please also add the description into the About section (Description field)**
+More to come soon...
 
 ## Documentation
 
-Documentation is available at [xxx/docs](https://xxx/docs/).
-
-You can use [GitHub pages](https://guides.github.com/features/pages/) to create your documentation.
-
-See an example here : https://github.com/ThalesGroup/ThalesGroup.github.io
-
-**Please also add the documentation URL into the About section (Website field)**
+Coming soon...
 
 ## Contributing
 
-If you are interested in contributing to the XXX project, start by reading the [Contributing guide](/CONTRIBUTING.md).
+If you are interested in contributing to the [secure-ml](https://github.com/ThalesGroup/secure-ml) project, start by reading the [Contributing guide](/CONTRIBUTING.md).
 
 ## License
 
