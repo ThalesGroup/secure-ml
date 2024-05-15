@@ -16,11 +16,11 @@ This policy applies to all employees, contractors, and third-party vendors who d
 ## ML SecPlan - Brief
 **![image](../images/ml.png)**
 
-* Data Security: It refers to securing data that can be training data, validation data, data stored in vector databases, etc.
-* Model Security: It refers to hardening the model in both development and inference time. 
-* Platform Security: It refers to hardening of the underlying platform where the ML model is being developed or operated, along with any associated data.
-* Security Compliance: It refers to being compliant to both internal and external regulations, standards, and best practices as application to the Trusted AI principles.
-* Human Security: It refers to humans being well trained, authenticated, authorized, and capable to handle security incidents around ML ecosystem.
+* **Data Security**: It refers to securing data that can be training data, validation data, data stored in vector databases, etc.
+* **Model Security**: It refers to hardening the model in both development and inference time. 
+* **Platform Security**: It refers to hardening of the underlying platform where the ML model is being developed or operated, along with any associated data.
+* **Security Compliance**: It refers to being compliant to both internal and external regulations, standards, and best practices as application to the Trusted AI principles.
+* **Human Security**: It refers to humans being well trained, authenticated, authorized, and capable to handle security incidents around ML ecosystem.
 
 ## ML SecPlan - Goals and Techniques
 |  | DATA SECURITY | MODEL SECURITY | PLATFORM SECURITY | SECURITY COMPLIANCE | HUMAN SECURITY |
