@@ -1,6 +1,6 @@
 # Machine Learning Privacy-Preserving Techniques
 
-![alt text](images/pp.png)
+![alt text](../images/pp.png)
 
 ## Differential Privacy for Machine Learning
 
@@ -32,7 +32,7 @@ Data users are the entities or individuals who utilize the output or results of 
 
 Federated learning enables model training on decentralized data while preserving data privacy. Instead of centralizing data on a single server, the model is trained locally on individual devices or servers, and only aggregated model updates are shared. This ensures that sensitive data remains on the local devices, reducing privacy risks. Let's take H5 model as example to understand this.
 
-![alt text](images/fe.png)
+![alt text](../images/fe.png)
 
 Some interesting libraries to try out:
 - https://github.com/tensorflow/federated
