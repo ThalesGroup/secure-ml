@@ -1,8 +1,8 @@
 ### Table of Contents
 
-- [Security Plan for Machine Learning Systems](ml-secplan.md)
-- [Machine Learning Privacy-Preserving Techniques](ml-privacy-techniques.md)
-- [Tools for Securing Machine Learning](ml-security-tools.md)
+- [Security Plan for Machine Learning Systems](security-plan/ml-secplan.md)
+- [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
+- [Tools for Securing Machine Learning](tools/ml-security-tools.md)
 
 ## Security Plan for Machine Learning Systems
 
@@ -15,13 +15,13 @@ If you need assistance or have question, please contact [Viswanath S Chirravuri]
 ## Machine Learning Privacy-Preserving Techniques
 Learn about cutting-edge privacy-preserving techniques for machine learning including Differential Privacy, Federated Learning, Homomorphic Encryption, Secure Multi-Party Computation (SMPC), and Privacy-Preserving Data Synthesis in this comprehensive GitHub repository. Explore how these methods safeguard sensitive data while enabling collaborative analysis and model training. Join us in advancing privacy-centric approaches to data science and machine learning.
 
-Read more at [ML privacy-preserving techniques](ml-privacy-techniques.md)
+Read more at [ML privacy-preserving techniques](privacy/ml-privacy-techniques.md)
 
 ## Tools for Securing Machine Learning
 
 Discover essential security tools such as CodeQL for source code vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
 
-Read more at [ML security tools](ml-security-tools.md)
+Read more at [ML security tools](tools/ml-security-tools.md)
 
 ## License
 
