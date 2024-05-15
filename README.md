@@ -19,7 +19,7 @@ Read more at [ML privacy-preserving techniques](ml-privacy-techniques.md)
 
 ## Tools for Securing Machine Learning
 
-Discover essential security tools such as CodeQL for vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
+Discover essential security tools such as CodeQL for source code vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
 
 Read more at [ML security tools](ml-security-tools.md)
 
