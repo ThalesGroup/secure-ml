@@ -1,22 +1,15 @@
 # Security Plan for Machine Learning Systems
 
-A framework to secure machine learning datasets, models, underlying platform, compliance with internal and external requirements, and to humans involved in ML.
+A ThalesGroup framework to secure machine learning datasets, models, underlying platform, compliance with internal and external requirements, and to humans involved in ML.
 
-**![image](https://github.com/ThalesGroup/secure-ml/assets/100698628/9dd88744-4274-40ac-b089-03a441d4c555)**
+**![image](images/ml.png)**
 
-If you need assistance or have question, please contact [@vchirrav](https://twitter.com/vchirrav)
+If you need assistance or have question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
 
-## Get started
+## Machine Learning Privacy-Preserving Techniques
+Learn about cutting-edge privacy-preserving techniques for machine learning including Differential Privacy, Federated Learning, Homomorphic Encryption, Secure Multi-Party Computation (SMPC), and Privacy-Preserving Data Synthesis in this comprehensive GitHub repository. Explore how these methods safeguard sensitive data while enabling collaborative analysis and model training. Join us in advancing privacy-centric approaches to data science and machine learning.
 
-More to come soon...
-
-## Documentation
-
-Coming soon...
-
-## Contributing
-
-If you are interested in contributing to the [secure-ml](https://github.com/ThalesGroup/secure-ml) project, start by reading the [Contributing guide](/CONTRIBUTING.md).
+Read more at [ML privacy-preserving techniques](ml-privacy-techniques.md)
 
 ## License
 
