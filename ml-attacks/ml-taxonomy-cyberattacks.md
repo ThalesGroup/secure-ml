@@ -7,6 +7,10 @@
 ## ThalesGroup Taxonomy of ML failures
 In today's increasingly digital world, machine learning (ML) has become a fundamental technology, powering everything from recommendation systems to autonomous vehicles. However, as ML continues to evolve, so too do the threats it faces. To navigate the complex landscape of ML cyberattacks effectively, we must first understand the taxonomy of these attacks. In this article, we'll explore a comprehensive taxonomy of ML cyberattacks, shedding light on the diverse range of threats that challenge the security of ML systems.
 
+- [Attacks on Training Data](#attacks-on-training-data)
+- [Attacks on Model](#attacks-on-model)
+- [Attacks at Inference](#attacks-at-inference)
+
 ### Attacks on Training Data
 - Data Poisoning Attacks
     - Adversarial Perturbations: Attackers inject malicious data into the training dataset to manipulate model behavior.
