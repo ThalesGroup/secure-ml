@@ -1,5 +1,7 @@
 ## ML Security Plan - Security Requirements
 
+For context, please refer to the [earlier page](ml-secplan.md) before proceeding with this content.
+
 ### Data Security
 
 ID | TECHNIQUE | ACTIVITY
