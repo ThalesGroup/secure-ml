@@ -126,3 +126,5 @@ Some interesting libraries to try out:
 - https://github.com/sdv-dev/SDV
 - https://github.com/sdv-dev/CTGAN
 - https://github.com/DataResponsibly/DataSynthesizer
+
+*Disclaimer: Thales does not endorse the utilization of any specific tool or library. The reference to such tools or libraries is purely for illustrative and informational purposes, and their use should be exercised with discretion.*
