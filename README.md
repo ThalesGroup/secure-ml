@@ -4,6 +4,7 @@
 - [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
 - [Tools for Securing Machine Learning](tools/ml-security-tools.md)
 - [Taxonomy of Cyberattacks in Machine Learning](ml-attacks/ml-taxonomy-cyberattacks.md)
+- [Security Threats in Machine Learning](ml-threats/ml-threats.md)
 
 ## Security Plan for Machine Learning Systems
 
