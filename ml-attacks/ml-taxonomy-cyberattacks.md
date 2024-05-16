@@ -1,0 +1,177 @@
+## NIST Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations
+- https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf
+
+## Microsoft's Taxonomy of AI failures
+- https://learn.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning
+
+## ThalesGroup Taxonomy of ML failures
+In today's increasingly digital world, machine learning (ML) has become a fundamental technology, powering everything from recommendation systems to autonomous vehicles. However, as ML continues to evolve, so too do the threats it faces. To navigate the complex landscape of ML cyberattacks effectively, we must first understand the taxonomy of these attacks. In this article, we'll explore a comprehensive taxonomy of ML cyberattacks, shedding light on the diverse range of threats that challenge the security of ML systems.
+
+### Attacks on Training Data
+- Data Poisoning Attacks
+    - Adversarial Perturbations: Attackers inject malicious data into the training dataset to manipulate model behavior.
+    - Data Manipulation: Altering or modifying training data to introduce biases or errors into the model.
+    - Data Evasion Attacks: Crafting malicious data samples to evade detection or classification by the model.
+
+### Attacks on Model
+- Model Poisoning Attacks
+    - Model Backdooring: Inserting a hidden trigger into the model during training, which can be exploited later.
+    - Model Trojans: Inserting a backdoor that activates under specific conditions, causing the model to make malicious predictions.
+- Model Inference Attacks
+    - Model Stealing Attacks: Attempting to replicate a victim model by querying it and using the responses.
+    - Model Watermarking Attacks: Trying to reverse-engineer the architecture or parameters of a model.
+- Privacy Attacks
+    - Membership Inference Attacks: Determining whether a specific data point was used to train a model.
+    - Attribute Inference Attacks: Inferring sensitive attributes of individuals from the model's predictions.
+    - Differential Privacy Attacks: Exploiting vulnerabilities in the application of differential privacy mechanisms.
+    - Privacy Leakage Attacks: Exploiting vulnerabilities in privacy-preserving techniques to infer sensitive information.
+- Transfer Learning Attacks
+    - Model Extraction Attacks: Extracting knowledge from a pre-trained model to create a clone or surrogate model. 
+    - Model Fine-Tuning Attacks: Fine-tuning a pre-trained model with malicious data to alter its behavior.
+- Model Interpretability Attacks
+    - Model Inference Attacks: Inferring sensitive information about the model's training data or architecture.
+    - Feature Attribution Attacks: Exploiting the model's explainability features to reveal or manipulate sensitive data.
+- Hardware-Based Attacks
+    - Side-Channel Attacks: Exploiting hardware vulnerabilities to infer information about model execution.
+    - Memory Attacks: Accessing and manipulating model parameters or data stored in memory.
+- Homomorphic Encryption Attacks
+    - Homomorphic Encryption Decryption Attacks: Attempting to infer information from the decrypted model output.
+    - Key Recovery Attacks: Trying to recover encryption keys to access sensitive model data.
+- Model Pruning Attacks
+    - Pruning Manipulation: Attacking the model pruning process to distort the model's accuracy or behavior.
+    - Pruning Adversarial Backdoors: Introducing hidden backdoors during model pruning.
+- Exfiltration Attacks
+    - Model Data Exfiltration: Extracting sensitive training data or model parameters from the deployed model.
+- Feature Manipulation Attacks
+    - Feature Overloading: Injecting excessive or irrelevant features into the input data to overwhelm the model.
+    - Feature Masking: Concealing critical features while amplifying irrelevant ones to mislead the model.
+- Causality Exploitation Attacks
+    - Cause-Effect Manipulation: Manipulating input data to create artificial causal relationships and distort model inferences.
+    - Causal Inference Attacks: Exploiting vulnerabilities in models that make causal inferences from observational data.
+- Data Deduplication Attacks
+    - Exploiting Data Deduplication: Leveraging data deduplication techniques to manipulate model inputs.
+- Supply Chain Attacks
+    - Malicious Package Insertion: Introducing compromised dependencies or libraries into the ML development environment.
+    - Data Poisoning in Training Data Sources: Manipulating data sources used for model training.
+
+### Attacks at Inference
+- Model Evasion Attacks
+    - Adversarial Attacks: Crafting input data to mislead the model into making incorrect predictions.
+    - Membership Inference Attacks: Determining if a particular data point was part of the model's training dataset.
+    - Model Inversion Attacks: Inferring sensitive information about the training data from the model's output.
+- Reinforcement Learning Attacks
+    - Reward Function Manipulation: Manipulating the reward function in reinforcement learning to achieve malicious goals.
+    - Exploration Exploitation Attacks: Exploiting weaknesses in exploration strategies to influence agent behavior.
+- Deployment Attacks
+    - Model Manipulation: Altering the deployed model's parameters or weights to degrade its performance.
+    - Model Availability Attacks: Overloading or disrupting the serving infrastructure to make the model unavailable.
+- Social Engineering Attacks
+    - Phishing Attacks: Trick individuals into sharing sensitive model-related information.
+    - Misdirection Attacks: Diverting attention or resources away from model security measures.
+- Malicious Model Marketplace Attacks
+    - Distribution of Malicious Models: Distributing models with hidden vulnerabilities or backdoors.
+    - Counterfeit Models: Creating counterfeit models that appear genuine but have malicious intent.
+- Federated Learning Attacks
+    - Model Poisoning in Federated Learning: Injecting malicious updates from a client to manipulate the global model.
+    - Model Reconstruction Attacks: Attempting to reconstruct the global model from client updates.
+- Transfer Attacks
+    - Model Extraction Attacks in Transfer Learning: Extracting knowledge from a model trained on a related task.
+    - Fine-Tuning Attacks in Transfer Learning: Poisoning the fine-tuning process of a pre-trained model for a specific task.
+- Concept Drift Attacks
+    - Gradual Drift Injection: Injecting drift-inducing data over time to degrade model performance.
+    - Sudden Concept Shift: Introducing sudden changes to the input data distribution to confuse the model.
+- AI Explainability Attacks
+    - Misleading Explanations: Crafting adversarial explanations to deceive users about the model's behavior.
+    - Model Behavior Manipulation through Explanations: Influencing user trust by manipulating model interpretability.
+- Evasion Attacks in Reinforcement Learning
+    - Reward Manipulation: Manipulating the reward signal to achieve desired actions in RL agents.
+    - Adversarial Actions: Taking actions that exploit weaknesses in RL algorithms.
+- Natural Language Processing (NLP) Attacks
+    - Text Poisoning Attacks: Injecting malicious or biased text data into training datasets. 
+    - Generation of Harmful Content: Using NLP models to generate harmful or offensive content.
+- Transferable Adversarial Attacks
+    - Attacks Transferable Across Models: Crafting adversarial examples that can deceive multiple ML models.
+    - Attacks Transferable Across Modalities: Creating attacks that work across different types of ML models (e.g., vision to language).
+- Edge Device Attacks
+    - Attacks on Deployed Models on IoT Devices: Targeting vulnerabilities in models deployed on edge devices.
+    - Energy-Based Attacks: Exploiting power consumption patterns to infer model activity.
+- Zero-Day Attacks
+    - Zero-Day Exploits for ML Frameworks: Exploiting undiscovered vulnerabilities in ML libraries and frameworks.
+    - Zero-Day Adversarial Attacks: Crafting novel adversarial examples that current defenses cannot detect.
+- Feedback Loop Attacks
+    - Reinforcement Feedback Loops: Manipulating feedback mechanisms in reinforcement learning to induce harmful behavior.
+    - User Feedback Manipulation: Exploiting user feedback loops to bias model updates.
+- Contextual Attacks
+    - Context Poisoning: Injecting contextual information that alters model predictions in specific scenarios.
+    - Contextual Bias Attacks: Manipulating models to exhibit biased behavior in specific contextual settings.
+- Glowing Data Attacks
+    - Creating Fictitious Positive Data: Injecting fake data to make malicious instances appear legitimate. 
+    - Generating Illusion of Trustworthiness: Creating data that falsely validates the reliability of malicious inputs.
+- Augmentation Attacks
+    - Data Augmentation Attacks: Exploiting data augmentation techniques to introduce vulnerabilities.
+    - Model Augmentation Attacks: Modifying or enhancing the model's architecture to deceive users.
+- Geospatial Attacks
+    - Location-Based Attacks: Manipulating geospatial data inputs to mislead location-based ML systems.
+    - Geofencing Bypass: Finding and exploiting vulnerabilities in geofencing algorithms.
+- Temporal Attacks
+    - Time-Series Data Manipulation: Injecting anomalous or malicious patterns into time-series data to deceive models.
+    - Temporal Bias Attacks: Manipulating models to exhibit temporal biases in predictions.
+- Dynamic Network Attacks
+    - Dynamic Model Manipulation: Changing model behavior in real-time to evade detection.
+    - Dynamic Data Poisoning: Injecting malicious data into a constantly evolving dataset.
+- Quantum Computing Attacks
+    - Quantum Adversarial Attacks: Using quantum computing to craft more potent adversarial examples.
+    - Quantum Cryptanalysis: Employing quantum algorithms to break encryption protecting ML systems.
+- Semi-Supervised Attacks
+    - Semi-Supervised Poisoning: Poisoning both labeled and unlabeled data to degrade model performance.
+    - Semi-Supervised Membership Inference: Inferring membership in unlabeled data.
+- Adversarial Reinforcement Learning (ARL) Attacks
+    - Reinforcement Learning Adversarial Policies: Crafting adversarial policies to deceive RL agents.
+    - Adversarial Exploration Strategies: Manipulating exploration strategies to bias RL agents.
+- Generative Model Attacks
+    - Generative Model Poisoning: Manipulating training data for generative models to generate harmful content.
+    - Stealthy Generative Attacks: Crafting generative models to produce content that evades detection.
+- Graph Neural Network Attacks
+    - Graph Poisoning: Manipulating the graph structure to affect the behavior of graph neural networks.
+    - Node Embedding Attacks: Perturbing node embeddings to deceive graph-based models.
+- Transferability Across Domains
+    - Domain Transfer Attacks: Crafting adversarial examples that work across different domains or datasets.
+    - Modality Transfer Attacks: Adapting attacks from one modality (e.g., image) to another (e.g., text).
+- Semantic Attacks
+    - Semantic Manipulation: Crafting inputs with altered semantic meaning to deceive models.
+    - Semantic Poisoning: Injecting data with malicious semantic attributes into training datasets.
+- Stochastic Gradient Descent (SGD) Attacks
+    - SGD Manipulation: Altering the update mechanism in SGD to poison model training.
+    - SGD Convergence Attacks: Attacking the convergence behavior of SGD to hinder model training.
+- Cross-Model Attacks
+    - Adversarial Transfer between Models: Creating adversarial examples that deceive one model when generated by another.
+    - Model Composition Attacks: Combining the outputs of multiple models to achieve malicious goals.
+- Biometric Attacks
+    - Biometric Spoofing: Using spoofed biometric data to deceive biometric authentication systems.
+    - Biometric Data Manipulation: Altering biometric data inputs to gain unauthorized access.
+- Biological Attacks
+    - Adversarial Biological Samples: Crafting biological samples (e.g., DNA sequences) that deceive bioinformatics or biometric models.
+    - Biological Data Poisoning: Manipulating biological datasets used for training machine learning models in bioinformatics.
+- Physically Realizable Attacks
+    - Physical Adversarial Attacks: Manipulating the physical properties of objects to deceive computer vision models.
+    - Environmental Attacks: Exploiting real-world conditions (e.g., lighting, weather) to mislead sensors and models.
+- Stealthy Attacks
+    - Low-Noise Attacks: Crafting subtle adversarial examples that are less likely to be detected.
+    - Human-Imperceptible Attacks: Creating adversarial inputs that are nearly indistinguishable from normal data.
+- Generative Adversarial Network (GAN) Attacks
+    - GAN Poisoning: Poisoning the training process of GANs to generate malicious content.
+    - GAN Deception: Using GANs to generate adversarial examples for other ML models.
+- Model-Free Attacks
+    - Black-Box Attacks: Attacking machine learning models without access to their internal parameters or architecture.
+    - Zero-Knowledge Attacks: Crafting adversarial inputs with no prior knowledge of the target model's architecture or parameters.
+- Homogenization Attacks
+    - Making Adversarial and Legitimate Inputs Indistinguishable: Crafting adversarial examples that are virtually identical to legitimate inputs.
+    - Homogenizing Adversarial Samples: Making multiple adversarial examples appear similar to evade detection.
+- Social Manipulation Attacks
+    - Social Engineering of Model Behavior: Manipulating machine learning models through social interactions and user-generated content.
+    - Algorithmic Amplification: Exploiting algorithmic biases and content amplification mechanisms in social media platforms.
+
+### Conclusion
+The landscape of ML cyberattacks is vast and constantly evolving. Understanding the taxonomy of these attacks is the first step toward building robust defenses. As the adoption of machine learning continues to grow, securing these systems against increasingly sophisticated threats becomes paramount. To protect ML systems effectively, organizations must stay vigilant, invest in security measures, and foster a culture of cybersecurity awareness. Collaboration among researchers, practitioners, and policymakers is essential to stay one step ahead of those who seek to exploit vulnerabilities in AI and ML. In future articles, we will delve deeper into each category of ML cyberattacks, exploring detection and mitigation strategies to help you safeguard your AI and ML systems effectively. Stay tuned for more insights into the ever-evolving world of ML security.
+
+Source of data: Corporate AI threat database, Public whitepapers, Internet search, ChatGPT, ENISA, and NIST.
