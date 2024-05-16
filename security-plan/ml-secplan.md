@@ -1,5 +1,7 @@
+# Security Plan for Machine Learning Systems
+
 ## Purpose
-The purpose of this security plan is to establish a framework for ensuring the security, privacy, and integrity of machine learning (ML) systems within the organization. This policy outlines activities, responsibilities, and best practices to protect ML models, data, and infrastructure from unauthorized access, malicious attacks, and privacy breaches.
+The purpose of this security plan (SecPlan) is to establish a framework for ensuring the security, privacy, and integrity of machine learning (ML) systems within the organization. This policy outlines activities, responsibilities, and best practices to protect ML models, data, and infrastructure from unauthorized access, malicious attacks, and privacy breaches.
 
 ## Applicability
 This SecPlan is applicable whenever organization employees are:
@@ -29,4 +31,3 @@ This policy applies to all employees, contractors, and third-party vendors who d
 | TECHNIQUES | Encryption, Access Controls, Data backups & Recovery, Data anonymization, Data quality control, Secure data sharing, Data classification | Secure development, Input and Output validation, Model explainability, Adversarial training, Robustness testing, Monitoring and alerting, Secure deployment | Vulnerability scanning & Penetration Testing, Patch management, Access Controls, Encryption, Hardening, Secure Configuration  | Regulatory compliance, Ethical considerations, Data retention and deletion, Audit trails, Security assessments, Third-party risk management  | Training and awareness, Background checks, Incident response, Governance and oversight, Continuous monitoring |
 
 For details, refer to [ML SecPlan - Detailed](ml-secplan-detailed.md)
-
