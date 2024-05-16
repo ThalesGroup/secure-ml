@@ -1,4 +1,8 @@
+## Secure Coding Guidelines for handling Machine Learning datasets
+
 In a machine learning model, especially in a retrieval-augmented generation (RAG) scenario, handling contextual data files securely is crucial to protect the integrity of the model and the confidentiality of the data. This page outlines security guidelines and provides example Python code for implementing them.
+
+*Disclaimer: Thales does not endorse the use of any specific Python library. The mention of such libraries is solely for illustrative purposes and informational use.*
 
 ### File Format Checks
 - Guideline: Validate the file format to match the expected format for the machine learning model. 

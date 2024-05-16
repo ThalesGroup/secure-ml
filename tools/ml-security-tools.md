@@ -17,3 +17,5 @@
 | Scans models to determine if they contain unsafe code | https://github.com/protectai/modelscan |
 | Evaluate Security of AI model | https://github.com/Azure/counterfit |
 | Privacy & Compliance | https://github.com/ibm/ai-privacy-toolkit |
+
+*Disclaimer: Thales does not endorse the utilization of any specific tool. The reference to such tools is purely for illustrative and informational purposes, and their use should be exercised with discretion.*

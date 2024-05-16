@@ -37,3 +37,5 @@ Tool | Description | IDEs | Languages | Reference | Pricing
 - Cost and pricing model
 
 Note: AI code generation tools are still under development and should be used with caution. Always test and review generated code before deploying it to production.
+
+*Disclaimer: Thales does not endorse the utilization of any specific tool. The reference to such tools is purely for illustrative and informational purposes, and their use should be exercised with discretion.*

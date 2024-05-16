@@ -1,4 +1,8 @@
-Here's a breakdown of postprocessing and output validation techniques for LLMs, along with Python code examples and ML algorithms where applicable. Please note that the code provided is just example reference and not to be used as-is. 
+## Security related output validation guidelines on Machine Learning model development and operations
+
+Here's a breakdown of postprocessing and output validation techniques for LLMs (Large Language Models), along with Python code examples and ML algorithms where applicable. Please note that the code provided is just example reference and not to be used as-is.
+
+*Disclaimer: Thales does not endorse the use of any specific Python library. The mention of such libraries is solely for illustrative purposes and informational use.*
 
 ### Deanonymize Scanner
 ```

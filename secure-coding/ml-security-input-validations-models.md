@@ -1,4 +1,8 @@
+## Security related input validation guidelines on Machine Learning model development and operations
+
 Here are Python code examples and ML algorithms for implementing security-related input validation rules for LLMs. Please note that the code provided is just example reference and not to be used as-is.
+
+*Disclaimer: Thales does not endorse the use of any specific Python library. The mention of such libraries is solely for illustrative purposes and informational use.*
 
 ### Prompt Injection Scanner
 ```
