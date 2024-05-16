@@ -1,6 +1,4 @@
-# ML Security Plan - Detailed
-
-## Security Requirements
+## ML Security Plan - Security Requirements
 
 ### Data Security
 
@@ -52,29 +50,3 @@ HS2 | Background checks | Project teams must conduct background checks on employ
 HS3 | Incident response | Project teams must have an incident response plan in place to handle security incidents related to AI and ML, such as data breaches or cyber-attacks. This includes measures such as incident management, forensics communication plans and associated people to be involved.
 HS4 | Governance and oversight | Project teams must establish governance and oversight structures to ensure that AI and ML systems are developed, deployed, and used in a secure and ethical manner. This includes measures such as compliance frameworks, security dashboards, and risk management processes and waivers.
 HS5 | Continuous monitoring | Project teams must implement continuous monitoring of AI and ML systems to detect and respond to security incidents in real-time. This can include measures such as logging, monitoring, and analytics.
-
-
-## Exceptions
-Exceptions to this ML Security Policy may be granted in certain circumstances, subject to a thorough review and approval process. Exceptions will be considered on a case-by-case basis and should follow the principle of maintaining an acceptable level of risk while ensuring the security and privacy of ML systems.
-
-## Exception Request
-- Any employee or team seeking an exception to this policy must submit a formal exception request to the designated authority.
-- The exception request should include a detailed justification for the proposed deviation from the policy, along with supporting evidence, risk assessment, and mitigating controls, if applicable.
-
-## Review and Approval Process
-- The designated authority responsible for reviewing exceptions (DIS-ITE-Central Security) will assess the request in consultation with relevant stakeholders, including the ML solutoin owner, development team, legal department, and data privacy officers.
-- The review process will consider the potential impact on security, privacy, compliance, and the organization's risk tolerance.
-- The designated authority will communicate the decision regarding the exception request to the requesting party in a timely manner.
-
-## Documentation and Tracking
-- Approved exceptions will be documented, including the rationale for the exception, mitigating controls (if any), and any additional safeguards implemented.
-- The exceptions and their associated documentation will be tracked and periodically reviewed to ensure continued compliance and evaluate the need for ongoing exceptions.
-
-## Periodic Review
-- All exceptions granted under this policy will be subject to periodic review to assess their ongoing necessity and appropriateness.
-- The designated authority will conduct reviews at least annually or whenever there are significant changes in the ML system, security landscape, or regulatory requirements.
-
-## Policy Updates
-This exception section of the policy will be periodically reviewed and updated to incorporate lessons learned, emerging best practices, and changes in regulations or organizational requirements.
-
-Please note that exceptions to this policy should be considered exceptions rather than the norm, and the organization should strive to adhere to the policy's guidelines and best practices. Exceptions should be granted sparingly and with a clear understanding of the associated risks and mitigation strategies.
