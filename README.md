@@ -30,6 +30,10 @@ Explore the taxonomy of machine learning cyberattacks targeting training data, m
 
 Available at [ML Cyberattacks Taxonomy](ml-attacks/ml-taxonomy-cyberattacks.md)
 
+## Security Threats in Machine Learning
+
+Available at [ML Security Threats](ml-threats/ml-threats.md)
+
 ## License
 
 The chosen license in accordance with legal department must be defined into an explicit [LICENSE](https://github.com/ThalesGroup/template-project/blob/master/LICENSE) file at the root of the repository
