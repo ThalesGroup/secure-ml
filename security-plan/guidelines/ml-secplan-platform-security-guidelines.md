@@ -1,5 +1,7 @@
 ### ML Security Plan - Security Guidelines for ML Platforms
 
+For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---
 PS1 | Vulnerability scanning | 1. Regular Scanning: Schedule regular vulnerability scans of the entire AI/ML infrastructure using tools like Nessus, OpenVAS, or commercial solutions. Scan for vulnerabilities in operating systems, applications, and network configurations. <br> 2. Penetration Testing: Conduct periodic penetration testing to simulate real-world attacks and identify potential security weaknesses. Engage with third-party security experts to perform thorough assessments. <br> 3. Remediation: Prioritize and address identified vulnerabilities based on their severity. Develop and implement a remediation plan to mitigate risks promptly. <br> 4. Reporting: Maintain detailed reports of all scans and tests, documenting findings, remediation actions, and verification of fixes. Use these reports to improve the security posture continuously.

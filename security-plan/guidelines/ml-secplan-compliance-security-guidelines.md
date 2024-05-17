@@ -1,5 +1,7 @@
 ### ML Security Plan - Guidelines for Security Compliance
 
+For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---
 SC1 | Regulatory compliance | 1. Regulatory Compliance Frameworks: Implement frameworks to ensure AI and ML systems comply with regulations like HIPAA, GDPR, PCI-DSS, or ISO 27001. Regularly update policies to reflect changes in regulations. <br> 2. Data Protection Measures: Ensure all personal and sensitive data is encrypted and access is restricted based on need-to-know. Implement data masking and pseudonymization techniques where applicable. <br> Reference: [OWASP ASVS V8 Data Protection](https://github.com/OWASP/ASVS/blob/master/4.0/en/0x16-V8-Data-Protection.md) <br> 3. Security Controls: Apply security controls as mandated by relevant standards, such as multi-factor authentication (MFA), regular audits, and secure coding practices. <br> Reference: [ML Secure Coding](../../secure-coding/ml-secure-coding-guidelines.md) <br> 4. Privacy Requirements: Conduct privacy impact assessments (PIAs) to identify and mitigate privacy risks. Ensure transparency with users about data collection, usage, and sharing practices. <br> Reference: [ML Privacy Techniques](../../privacy/ml-privacy-techniques.md)

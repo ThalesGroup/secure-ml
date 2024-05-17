@@ -1,5 +1,7 @@
 ### ML Security Plan - Security Guidelines for ML Models
 
+For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---
 MS1 | Secure development | 1. Code Repositories: Use version control systems like Git to manage and track changes to AI models. Establish a central repository for storing model code, configuration files, and dependencies. <br> 2. Branching: Implement a branching strategy (e.g., GitFlow) to manage development, testing, and production versions of models. Create separate branches for features, bug fixes, and releases. <br> 3. Environment Management: Use environment management tools like Docker and virtual environments to ensure consistency across development, testing, and production environments. Store environment configurations in version control. <br> 4. Code Review: Refer to [ML model code review guidelines](../../secure-coding/ml-security-code-review-guidelines.md). <br> 5. Secure Coding: Refer to [ML model secure coding guidelines](../../secure-coding/ml-secure-coding-guidelines.md)

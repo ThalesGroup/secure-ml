@@ -1,5 +1,7 @@
 ### ML Security Plan - Guidelines for Human Security
 
+For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---
 HS1 | Training and awareness | 1. Security Training: Develop and deliver comprehensive security training programs for employees and stakeholders. Focus on the specific risks and best practices related to AI and ML security, including data protection, threat mitigation, and secure coding practices. Reference: [ML security attacks](../../ml-attacks/ml-taxonomy-cyberattacks.md) and [ML security threats](../../ml-threats/ml-threats.md) <br> 2. Awareness Campaigns: Launch regular awareness campaigns to reinforce the importance of AI and ML security. Use newsletters, posters, and webinars to highlight recent threats and remind employees of security protocols. <br> 3. Phishing Simulations: Conduct regular phishing simulations to test and improve employees' ability to recognize and respond to phishing attempts. Provide feedback and additional training based on the results of these simulations.

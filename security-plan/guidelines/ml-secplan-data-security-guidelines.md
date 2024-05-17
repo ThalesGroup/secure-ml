@@ -1,5 +1,7 @@
 ### ML Security Plan - Security Guidelines for ML Datasets
 
+For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---
 DS1 | Encryption |  1. Utilize strong encryption algorithms like AES or RSA for encrypting sensitive data. <br> 2. Implement encryption for data both in transit and at rest. <br> 3. Ensure that encryption keys are securely managed, stored separately from the encrypted data, and accessible only to authorized personnel. <br> 4. Regularly rotate encryption keys and employ key management best practices to prevent unauthorized access. <br> Alternatively, refer to [OWASP ASVS V6 Stored Cryptography](https://github.com/OWASP/ASVS/blob/master/4.0/en/0x14-V6-Cryptography.md),  <br> [OWASP ASVS V8 Data Protection](https://github.com/OWASP/ASVS/blob/master/4.0/en/0x16-V8-Data-Protection.md), <br> [OWASP ASVS V9 Communication](https://github.com/OWASP/ASVS/blob/master/4.0/en/0x17-V9-Communications.md). <br> Industry Reference: NIST Special Publication 800-175B - "Guideline for Using Cryptographic Standards in the Federal Government: Cryptographic Mechanisms."
