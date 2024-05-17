@@ -30,7 +30,7 @@ This policy applies to all employees, contractors, and third-party vendors who d
 | GOAL | Confidentiality, Integrity, Availability, Autentication, Authorization, Non-repudiation, Privacy | Integrity in Computation, Accuracy and precision in output | API security, System security (+ Cloud security), Network security | Comply with internal and external regulations | People involved are authorized and aware of security risks |
 | TECHNIQUES | Encryption, Access Controls, Data backups & Recovery, Data anonymization, Data quality control, Secure data sharing, Data classification | Secure development, Input and Output validation, Model explainability, Adversarial training, Robustness testing, Monitoring and alerting, Secure deployment | Vulnerability scanning & Penetration Testing, Patch management, Access Controls, Encryption, Hardening, Secure Configuration  | Regulatory compliance, Ethical considerations, Data retention and deletion, Audit trails, Security assessments, Third-party risk management  | Training and awareness, Background checks, Incident response, Governance and oversight, Continuous monitoring |
 
-For details, refer to [ML SecPlan with security requirements](ml-secplan-detailed.md)
+For security requirements, refer to [ML SecPlan with security requirements](ml-secplan-detailed.md)
 
 
 ## Exceptions
