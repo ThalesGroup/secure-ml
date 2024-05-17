@@ -1,4 +1,4 @@
-## ML Security Plan - Security Guidelines for ML Platforms
+### ML Security Plan - Security Guidelines for ML Platforms
 
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---
