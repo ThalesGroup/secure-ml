@@ -6,7 +6,7 @@ The purpose of this security plan (SecPlan) is to establish a framework for ensu
 ## Applicability
 This SecPlan is applicable whenever organization employees are:
 - Engaged in the internal development of a machine learning model for commercial or opensource purposes,
-- Using a downloaded publicly available pre-trained model for commercial or opensource purposes,
+- Using a downloaded publicly available dataset or pre-trained model for commercial or opensource purposes,
 - Utilizing the AI services provided by CSPs (Cloud Service Providers) in a Software-as-a-Service (SaaS) or Platform-as-a-Service (PaaS) model or in serverless deployment for commercial or opensource purposes (e.g. use of pre-trained models provided by the CSPs),
 - Utilizing either publicly accessible or internally generated training or validation datasets.
 
