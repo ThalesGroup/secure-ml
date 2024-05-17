@@ -8,20 +8,20 @@
 
 ## Security Plan for Machine Learning Systems
 
-A ThalesGroup framework to secure machine learning datasets, models, underlying platform, compliance with internal and external requirements, and to humans involved in ML.
+A ThalesGroup policy framework to secure machine learning datasets, models, underlying platform, compliance with internal and external regulations, and to humans involved.
 
 **![image](images/ml.png)**
 
 Available at [ML Security Plan](security-plan/ml-secplan.md)
 
 ## Machine Learning Privacy-Preserving Techniques
-Learn about cutting-edge privacy-preserving techniques for machine learning including Differential Privacy, Federated Learning, Homomorphic Encryption, Secure Multi-Party Computation (SMPC), and Privacy-Preserving Data Synthesis in this comprehensive GitHub repository. Explore how these methods safeguard sensitive data while enabling collaborative analysis and model training. Join us in advancing privacy-centric approaches to data science and machine learning.
+Learn about cutting-edge privacy-preserving techniques for machine learning including Differential Privacy, Federated Learning, Homomorphic Encryption, Secure Multi-Party Computation (SMPC), and Privacy-Preserving Data Synthesis in this comprehensive GitHub repository. Explore how these methods safeguard sensitive data while enabling collaborative analysis and model training.
 
 Available at [ML privacy-preserving techniques](privacy/ml-privacy-techniques.md)
 
 ## Tools for Securing Machine Learning
 
-Discover essential security tools such as CodeQL for source code vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
+Discover essential security tools for source code vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
 
 Available at [ML security tools](tools/ml-security-tools.md)
 
