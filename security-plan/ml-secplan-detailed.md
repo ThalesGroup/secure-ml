@@ -52,4 +52,4 @@ HS2 | Background checks | Project teams must conduct background checks on employ
 HS3 | Incident response | Project teams must have an incident response plan in place to handle security incidents related to AI and ML, such as data breaches or cyber-attacks. This includes measures such as incident management, forensics communication plans and associated people to be involved.
 HS4 | Governance and oversight | Project teams must establish governance and oversight structures to ensure that AI and ML systems are developed, deployed, and used in a secure and ethical manner. This includes measures such as compliance frameworks, security dashboards, and risk management processes and waivers.
 
-For implementation details of the above requirements, refer to [ML security guidelines](guidelines/ml-secplan-guidelines.md).
+For implementation details of the above requirements, refer to [ML SecPlan Guidelines](guidelines/ml-secplan-guidelines.md).
