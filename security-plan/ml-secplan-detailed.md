@@ -29,7 +29,7 @@ ID | TECHNIQUE | ACTIVITY
 PS1 | Vulnerability scanning | Project teams must perform vulnerability scanning and penetration testing to identify and mitigate vulnerabilities in the infrastructure and systems used for AI and ML. 
 PS2 | Patch management | Project teams must implement a robust patch management process to ensure that software and firmware updates are installed promptly to address known security vulnerabilities.
 PS3 | Access controls | Project teams must implement access controls to ensure that only authorized personnel have access to the infrastructure and systems used for AI and ML. This includes measures such as user authentication, role-based access control, and multi-factor authentication.
-PS4 | Encryption | Project teams must use encryption to protect data in transit and at rest. This includes measures such as SSL/TLS for secure communication and full-disk encryption for storage.
+PS4 | Encryption | Project teams must use encryption to protect data in transit and at rest. This includes measures such as TLS for secure communication and full-disk encryption for storage.
 PS5 | Network hardening | Project teams must implement network security measures, such as firewalls, intrusion detection/prevention systems, and network segmentation, to protect against network-based attacks.
 PS6 | Hardware security | Project teams must ensure that hardware used for AI and ML, such as GPUs and TPUs, is secure and protected against tampering or physical attacks.
 PS7 | Secure Configuration | Project teams must ensure ML systems are configured securely, following best practices for network, systems, and applications hardening in cloud or on-prem. 
@@ -52,3 +52,5 @@ HS2 | Background checks | Project teams must conduct background checks on employ
 HS3 | Incident response | Project teams must have an incident response plan in place to handle security incidents related to AI and ML, such as data breaches or cyber-attacks. This includes measures such as incident management, forensics communication plans and associated people to be involved.
 HS4 | Governance and oversight | Project teams must establish governance and oversight structures to ensure that AI and ML systems are developed, deployed, and used in a secure and ethical manner. This includes measures such as compliance frameworks, security dashboards, and risk management processes and waivers.
 HS5 | Continuous monitoring | Project teams must implement continuous monitoring of AI and ML systems to detect and respond to security incidents in real-time. This can include measures such as logging, monitoring, and analytics.
+
+For implementation details of the above requirements, refer to [ML security guidelines](guidelines/ml-secplan-guidelines.md).

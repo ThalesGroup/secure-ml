@@ -11,3 +11,8 @@ Organizations committed to ML model security implement comprehensive version con
 Detailed guidelines are available at [Model Security Guidelines](ml-secplan-model-security-guidelines.md)
 
 ### Platform security guidelines
+Organizations should ensure the security of their underlying ML platforms by performing regular vulnerability scans and penetration tests, implementing a robust patch management process, and enforcing strict access controls. They should protect data through encryption in transit and at rest, deploy network security measures such as firewalls and intrusion detection systems, and safeguard hardware against tampering. Additionally, securing the configuration of systems and following best practices for both cloud and on-premises environments are essential to maintaining a secure AI and ML infrastructure.
+
+Detailed guidelines are available at [Platform Security Guidelines](ml-secplan-platform-security-guidelines.md)
+
+### Security Compliance
