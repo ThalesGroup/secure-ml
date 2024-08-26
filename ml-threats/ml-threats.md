@@ -22,3 +22,5 @@ Adversarial ML involves targeted attacks on machine learning models, aiming to d
 - **Extraction Attacks**: Targeting trained models to extract sensitive information or proprietary knowledge, posing a significant threat to privacy and intellectual property.
 
 These cyber threats underscore the importance of incorporating security measures at every stage of the machine learning lifecycle to ensure the reliability and trustworthiness of ML systems.
+
+A comprehensive taxonomy of cyberattacks in Machine Learning is available at [ML Taxonomy of Cyberattacks](../ml-attacks/ml-taxonomy-cyberattacks.md).
