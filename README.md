@@ -37,7 +37,8 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 
 ## License
 
-The chosen license in accordance with legal department must be defined into an explicit [LICENSE](https://github.com/ThalesGroup/template-project/blob/master/LICENSE) file at the root of the repository
-You can also link this file in this README section.
+This project is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software distributed under the Apache License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 If you need assistance or have question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
