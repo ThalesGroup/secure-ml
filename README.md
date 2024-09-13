@@ -37,9 +37,9 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 
 ## License
 
+![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)
+
 This project is licensed under the Creative Commons Attribution-NoDerivs 4.0 International (CC BY-ND 4.0) License. 
 You can view the full license text [here](https://creativecommons.org/licenses/by-nd/4.0/legalcode).
-
-![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)
 
 If you need assistance or have a question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
