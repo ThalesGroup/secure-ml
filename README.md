@@ -37,8 +37,9 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+This project is licensed under the Creative Commons Attribution-NoDerivs 4.0 International (CC BY-ND 4.0) License. 
+You can view the full license text [here](https://creativecommons.org/licenses/by-nd/4.0/legalcode).
 
-Unless required by applicable law or agreed to in writing, software distributed under the Apache License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)
 
 If you need assistance or have question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
