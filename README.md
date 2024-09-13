@@ -42,4 +42,4 @@ You can view the full license text [here](https://creativecommons.org/licenses/b
 
 ![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)
 
-If you need assistance or have question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
+If you need assistance or have a question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
