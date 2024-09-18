@@ -1,7 +1,7 @@
 # Security Policy for Machine Learning Systems
 
 ## Purpose
-The purpose of this security policy (SecPol) is to provide a policy framework for ensuring the security, privacy, and integrity of machine learning (ML) systems within the organization. This policy outlines activities, responsibilities, and guidelines to protect ML models, data, and infrastructure from unauthorized access, malicious attacks, and privacy breaches.
+The purpose of this security policy (SecPol) is to provide a framework for ensuring the security and privacy of machine learning (ML) systems within the organization. This policy outlines activities, responsibilities, and guidelines to protect ML models, data, and infrastructure from unauthorized access, malicious attacks, and privacy breaches.
 
 ## Applicability
 This SecPol is applicable whenever organization employees are:
