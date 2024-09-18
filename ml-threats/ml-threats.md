@@ -1,6 +1,6 @@
 # Cyber Threats to Machine Learning
 
-Machine learning systems are susceptible to various cyber threats, compromising their integrity and functionality. Understanding these threats is crucial for developing robust defense mechanisms. Here are two significant cyber threats to machine learning.
+Machine learning systems are susceptible to various cyber threats, compromising their integrity and functionality. Understanding these threats is crucial for developing robust defense mechanisms. Here are two main categories of cyber threats to machine learning.
 
 <img src="../images/mlt.png" width="500" height="300">
 
