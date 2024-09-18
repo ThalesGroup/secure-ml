@@ -1,4 +1,4 @@
-## Recommended tools for securing machine learning systems
+## Recommended tools for secure machine learning
 
 | Category | Tool |
 | -------- | ---- |

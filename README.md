@@ -1,11 +1,11 @@
 ### Table of Contents
 
-- [Security Plan for Machine Learning Systems](security-plan/ml-secplan.md)
+- [Security Policy for Machine Learning Systems](security-policy/ml-secpol.md)
 - [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
 - [Tools for Securing Machine Learning](tools/ml-security-tools.md)
 - [Security Threats to Machine Learning](ml-threats/ml-threats.md)
 
-## Security Plan for Machine Learning Systems
+## Security Policy for Machine Learning Systems
 
 A ThalesGroup policy framework to secure machine learning datasets, models, underlying platform, compliance with internal and external regulations, and to humans involved.
 

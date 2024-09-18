@@ -1,6 +1,6 @@
-### ML Security Plan - Security Guidelines for ML Datasets
+### Security Guidelines for Datasets Requirements of ML Security Policy
 
-For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+For context, please refer to the [earlier page](ml-secpol-guidelines.md) before proceeding with this content.
 
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---

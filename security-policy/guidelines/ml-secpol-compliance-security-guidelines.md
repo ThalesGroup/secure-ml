@@ -1,6 +1,6 @@
-### ML Security Plan - Guidelines for Security Compliance
+### Security Guidelines for Compliance Requirements of ML Security Policy
 
-For context, please refer to the [earlier page](ml-secplan-guidelines.md) before proceeding with this content.
+For context, please refer to the [earlier page](ml-secpol-guidelines.md) before proceeding with this content.
 
 ID | TECHNIQUE | GUIDELINES
 --- | --- | ---

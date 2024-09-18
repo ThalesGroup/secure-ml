@@ -1,8 +1,8 @@
-## ML Security Plan - Security Requirements
+## ML Security Policy - Security Requirements
 
-For context, please refer to the [earlier page](ml-secplan.md) before proceeding with this content.
+For context, please refer to the [earlier page](ml-secpol.md) before proceeding with this content.
 
-For implementation details of the below requirements, refer to [ML SecPlan Guidelines](guidelines/ml-secplan-guidelines.md).
+For implementation details of the below requirements, refer to [ML SecPol Guidelines](guidelines/ml-secpol-guidelines.md).
 
 ### Data Security
 
@@ -15,7 +15,7 @@ DS4 | Data anonymization | Project teams must anonymize data by removing persona
 DS5 | Data quality control | Project teams must implement processes to ensure the quality and integrity of the data used for training and testing AI models. This includes measures such as data file and content validation, and antivirus scans.
 DS6 | Secure data sharing | When sharing data with third parties, project teams must ensure that appropriate security measures are in place, such as secure data transfer protocols, data usage agreements, and data access controls.
 
-For implementation details of the above data security requirements, refer to [ML SecPlan Data Security Guidelines](guidelines/ml-secplan-data-security-guidelines.md).
+For implementation details of the above data security requirements, refer to [ML SecPlan Data Security Guidelines](guidelines/ml-secpol-data-security-guidelines.md).
 
 ### Model Security
 ID | TECHNIQUE | ACTIVITY
@@ -27,7 +27,7 @@ MS4 | Adversarial training & Robustness testing | Project teams must perform rob
 MS5 | Monitoring and alerting | Project teams must monitor AI models in production to detect anomalies or unexpected behavior. This includes measures such as logging, monitoring, and alerting.
 MS6 | Secure deployment | Project teams must deploy AI models securely, ensuring that appropriate security measures are in place, such as secure communication protocols, access controls, authentication, and reverse engineering protection mechanisms.
 
-For implementation details of the above model security requirements, refer to [ML SecPlan Model Security Guidelines](guidelines/ml-secplan-model-security-guidelines.md).
+For implementation details of the above model security requirements, refer to [ML SecPlan Model Security Guidelines](guidelines/ml-secpol-model-security-guidelines.md).
 
 ### Platform Security
 ID | TECHNIQUE | ACTIVITY
@@ -40,7 +40,7 @@ PS5 | Network hardening | Project teams must implement network security measures
 PS6 | Hardware security | Project teams must ensure that hardware used for AI and ML, such as GPUs and TPUs, is secure and protected against tampering or physical attacks.
 PS7 | Secure Configuration | Project teams must ensure ML systems are configured securely, following best practices for network, systems, and applications hardening in cloud or on-prem. 
 
-For implementation details of the above platform security requirements, refer to [ML SecPlan Platform Security Guidelines](guidelines/ml-secplan-platform-security-guidelines.md).
+For implementation details of the above platform security requirements, refer to [ML SecPlan Platform Security Guidelines](guidelines/ml-secpol-platform-security-guidelines.md).
 
 ### Security Compliance
 ID | TECHNIQUE | ACTIVITY
@@ -52,7 +52,7 @@ SC4 | Audit trails | Project teams implement audit trails to track data access a
 SC5 | Security assessments | Project teams must perform security assessments of their AI and ML systems to identify potential vulnerabilities and ensure compliance with regulatory requirements. This can include measures such as security risk assessments, security audits, and compliance assessments.
 SC6 | Third-party risk management | Project teams must ensure that third-party vendors and partners comply with regulatory requirements and security standards, particularly when they have access to sensitive data or systems used for AI and ML.
 
-For implementation details of the above compliance security requirements, refer to [ML SecPlan Compliance Security Guidelines](guidelines/ml-secplan-compliance-security-guidelines.md).
+For implementation details of the above compliance security requirements, refer to [ML SecPlan Compliance Security Guidelines](guidelines/ml-secpol-compliance-security-guidelines.md).
 
 ### Human Security
 ID | TECHNIQUE | ACTIVITY
@@ -62,4 +62,4 @@ HS2 | Background checks | Project teams must conduct background checks on employ
 HS3 | Incident response | Project teams must have an incident response plan in place to handle security incidents related to AI and ML, such as data breaches or cyber-attacks. This includes measures such as incident management, forensics communication plans and associated people to be involved.
 HS4 | Governance and oversight | Project teams must establish governance and oversight structures to ensure that AI and ML systems are developed, deployed, and used in a secure and ethical manner. This includes measures such as compliance frameworks, security dashboards, and risk management processes and waivers.
 
-For implementation details of the above human security requirements, refer to [ML SecPlan Human Security Guidelines](guidelines/ml-secplan-human-security-guidelines.md).
+For implementation details of the above human security requirements, refer to [ML SecPlan Human Security Guidelines](guidelines/ml-secpol-human-security-guidelines.md).
