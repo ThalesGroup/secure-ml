@@ -3,7 +3,6 @@
 - [Security Plan for Machine Learning Systems](security-plan/ml-secplan.md)
 - [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
 - [Tools for Securing Machine Learning](tools/ml-security-tools.md)
-- [Taxonomy of Cyberattacks in Machine Learning](ml-attacks/ml-taxonomy-cyberattacks.md)
 - [Security Threats to Machine Learning](ml-threats/ml-threats.md)
 
 ## Security Plan for Machine Learning Systems
@@ -24,12 +23,6 @@ Available at [ML privacy-preserving techniques](privacy/ml-privacy-techniques.md
 Discover essential security tools for source code vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
 
 Available at [ML security tools](tools/ml-security-tools.md)
-
-## Taxonomy of Cyberattacks in Machine Learning
-
-Explore the taxonomy of machine learning cyberattacks targeting training data, models, and inference processes. Delve into the intricacies of adversarial manipulation at each stage, understanding the vulnerabilities and implications for security.
-
-Available at [ML Cyberattacks Taxonomy](ml-attacks/ml-taxonomy-cyberattacks.md)
 
 ## Security Threats to Machine Learning
 
