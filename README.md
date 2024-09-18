@@ -11,7 +11,7 @@ A ThalesGroup policy framework to secure machine learning datasets, models, unde
 
 **![image](images/ml.png)**
 
-Available at [ML Security Plan](security-plan/ml-secplan.md) with [ML Security Requirements](security-plan/ml-secplan-detailed.md) and [ML Security Guidelines](security-plan/guidelines/ml-secplan-guidelines.md)
+Available at [ML Security Policy](security-policy/ml-secpol.md) with [ML Security Requirements](security-policy/ml-secpol-detailed.md) and [ML Security Guidelines](security-policy/guidelines/ml-secpol-guidelines.md)
 
 ## Machine Learning Privacy-Preserving Techniques
 Learn about cutting-edge privacy-preserving techniques for machine learning including Differential Privacy, Federated Learning, Homomorphic Encryption, Secure Multi-Party Computation (SMPC), and Privacy-Preserving Data Synthesis in this comprehensive GitHub repository. Explore how these methods safeguard sensitive data while enabling collaborative analysis and model training.
