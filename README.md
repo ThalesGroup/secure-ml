@@ -36,3 +36,16 @@ This project is licensed under the Creative Commons Attribution-NoDerivs 4.0 Int
 You can view the full license text [here](https://creativecommons.org/licenses/by-nd/4.0/legalcode).
 
 If you need assistance or have a question, please contact [Viswanath S Chirravuri](https://www.linkedin.com/in/chviswanath/)
+
+## Project Contacts
+
+For further information or to contribute to this project, you can reach out to the following contacts:
+
+- **Project Leader and Key contributor:** Viswanath S Chirravuri  
+  [LinkedIn](https://www.linkedin.com/in/chviswanath/)
+
+- **Project Sponsors:**
+  - Gilles Durbec  
+    [LinkedIn](https://fr.linkedin.com/in/gilles-durbec-1435412)
+  - Stephane Soustre  
+    [LinkedIn](https://www.linkedin.com/in/stephane-soustre-09a10b2/)
