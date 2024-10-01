@@ -2,6 +2,7 @@
 
 | Category | Tool |
 | -------- | ---- |
+| Threat Modeling AI systems | https://plot4.ai/assessments/quick-check |
 | ML source code quality & security | https://codeql.github.com/ |
 | Third-party library security vulnerability scan | https://pypi.org/project/safety/ |
 | Secure Jupyter Notebooks | https://nbdefense.ai/ |
