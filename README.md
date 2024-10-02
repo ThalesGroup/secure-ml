@@ -4,6 +4,7 @@
 - [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
 - [Tools for Securing Machine Learning](tools/ml-security-tools.md)
 - [Security Threats to Machine Learning](ml-threats/ml-threats.md)
+- [ML Security Regulations and Standards](ml-security-industry-references.md)
 
 ## Security Policy for Machine Learning Systems
 
