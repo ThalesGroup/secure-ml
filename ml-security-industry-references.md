@@ -1,5 +1,6 @@
 Reference | URL
 --- | ---
+US White House EO | 2023 → https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/, 2022 → https://www.whitehouse.gov/ostp/ai-bill-of-rights/
 EI AI Act | https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206
 MITRE ATLAS | https://atlas.mitre.org/matrices/ATLAS
 EU Digital Services Act (DSA) | https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0825
