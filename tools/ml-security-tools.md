@@ -5,7 +5,7 @@
 | Threat Modeling AI systems | https://plot4.ai/assessments/quick-check |
 | ML source code quality & security | https://codeql.github.com/ |
 | Third-party library security vulnerability scan | https://pypi.org/project/safety/ |
-| Secure Jupyter Notebooks | https://nbdefense.ai/ |
+| Secure Jupyter Notebooks | https://github.com/protectai/nbdefense |
 | Benchmark ML vulnerabilities | https://github.com/cleverhans-lab/cleverhans |
 | Attack & Defense | https://github.com/Trusted-AI/adversarial-robustness-toolbox |
 | Attack & Defense | https://github.com/BorealisAI/advertorch |
