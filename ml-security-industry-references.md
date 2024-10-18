@@ -1,6 +1,6 @@
 # Industry References
 
-![alt text](../images/rsf.png)
+![alt text](/images/rsf.png)
 
 ## Industry References - Details
 Reference | URL
