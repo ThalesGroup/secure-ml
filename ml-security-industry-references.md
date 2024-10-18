@@ -1,3 +1,8 @@
+# Industry References
+
+![alt text](../images/rsf.png)
+
+## Industry References - Details
 Reference | URL
 --- | ---
 US White House EO | 2023 → https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/, 2022 → https://www.whitehouse.gov/ostp/ai-bill-of-rights/
