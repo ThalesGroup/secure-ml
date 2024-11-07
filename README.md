@@ -29,6 +29,13 @@ Available at [ML security tools](tools/ml-security-tools.md)
 
 Available at [ML Security Threats](ml-threats/ml-threats.md)
 
+## Watch the Presentation
+
+[![Watch the video](https://img.youtube.com/vi/vcRsGlrsFjs/0.jpg)](https://youtu.be/vcRsGlrsFjs)
+
+- **Video Link**: [Machine Learning Security Risks, Policy, Tools, and Privacy Techniques - OWASP LASCON 2024](https://youtu.be/vcRsGlrsFjs)
+- **Conference**: OWASP LASCON 2024
+
 ## License
 
 ![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)
