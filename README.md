@@ -31,10 +31,10 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 
 ## Presentation on ML Security Risks, Policy, Tools, Privacy techniques and more
 
-[![Watch the video](images/lascon2024.png)](https://youtu.be/vcRsGlrsFjs)
-
-- **Video Link**: [Machine Learning Security Risks, Policy, Tools, and Privacy Techniques - OWASP LASCON 2024](https://youtu.be/vcRsGlrsFjs)
 - **Conference**: OWASP LASCON 2024
+<a href="https://www.youtube.com/watch?v=vcRsGlrsFjs" target="_blank">
+  <img src="images/lascon2024.png" alt="Watch the video" title="Watch the video" style="width:400px; border:1px solid #ddd; border-radius:8px;">
+</a>
 
 ## License
 
