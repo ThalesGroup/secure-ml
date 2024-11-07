@@ -32,13 +32,13 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 ## Presentation on ML Security Risks, Policy, Tools, Privacy techniques and more
 
 - **Conference**: OWASP LASCON 2024
+
 <a href="https://www.youtube.com/watch?v=vcRsGlrsFjs" target="_blank">
   <img src="images/lascon2024.png" 
        alt="Watch the video" 
        title="Watch the video" 
-       style="width:600px; border:2px solid #ddd; border-radius:8px; padding:5px;">
+       style="width:600px; border:8px solid #ddd; border-radius:8px; padding:5px;">
 </a>
-
 
 ## License
 
