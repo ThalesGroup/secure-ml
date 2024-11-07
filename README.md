@@ -29,7 +29,7 @@ Available at [ML security tools](tools/ml-security-tools.md)
 
 Available at [ML Security Threats](ml-threats/ml-threats.md)
 
-## Watch the Presentation
+## Presentation on ML Security Risks, Policy, Tools, Privacy techniques and more
 
 [![Watch the video](https://img.youtube.com/vi/vcRsGlrsFjs/0.jpg)](https://youtu.be/vcRsGlrsFjs)
 
