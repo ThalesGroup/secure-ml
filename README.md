@@ -32,6 +32,7 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 ## Presentation on ML Security Risks, Policy, Tools, Privacy techniques and more
 
 - **Conference**: OWASP LASCON 2024
+- **Agenda**: ML lifecycle/workflow, AI for Cyber vs Cyber for AI, Cyber Attacks, Risks, Threats, Thales Security Framework, Recommendations and more.
 
 <a href="https://www.youtube.com/watch?v=vcRsGlrsFjs" target="_blank">
   <img src="images/lascon2024.png" 
