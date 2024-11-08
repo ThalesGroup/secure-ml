@@ -37,8 +37,11 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
   <img src="images/lascon2024.png" 
        alt="Watch the video" 
        title="Watch the video" 
-       style="width:600px; border:8px solid #ddd; border-radius:8px; padding:5px;">
+       style="width:600px;">
 </a>
+
+You can access the presentation deck (PDF) at 
+[View Documentation (PDF)](presentations/LASCON_2024_Viswanath_S_Chirravuri.pdf)
 
 ## License
 
