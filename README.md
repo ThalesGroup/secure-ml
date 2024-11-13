@@ -42,7 +42,7 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 </a>
 
 You can access the presentation deck (PDF) at 
-[View Documentation (PDF)](presentations/LASCON_2024_Viswanath_S_Chirravuri.pdf)
+[View Documentation (PDF)](presentations/ML_SecPlan.pdf)
 
 ## License
 
