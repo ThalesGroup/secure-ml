@@ -42,7 +42,8 @@ Available at [ML Security Threats](ml-threats/ml-threats.md)
 </a>
 
 You can access the presentation deck (PDF) at 
-[View Documentation (PDF)](presentations/ML_SecPlan.pdf)
+[View Documentation (PDF)](presentations/ML_SecPlan.pdf) and other interesting [documents](documents/documents.md) for your reading.
+
 
 ## License
 
