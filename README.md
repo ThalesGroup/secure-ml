@@ -1,3 +1,5 @@
+This repository provides a wealth of information on securing machine learning projects, including, but not limited to, the following items.
+
 ### Table of Contents
 
 - [Security Policy for Machine Learning Systems](security-policy/ml-secpol.md)
@@ -11,6 +13,8 @@
 A ThalesGroup policy framework to secure machine learning datasets, models, underlying platform, compliance with internal and external regulations, and to humans involved.
 
 **![image](images/ml.png)**
+
+The purpose of this security policy (SecPol) is to provide a framework for ensuring the security and privacy of machine learning (ML) systems within the organization. This policy outlines activities, responsibilities, and guidelines to protect ML models, data, and infrastructure from unauthorized access, malicious attacks, and privacy breaches.
 
 Available at [ML Security Policy](security-policy/ml-secpol.md) with [ML Security Requirements](security-policy/ml-secpol-detailed.md) and [ML Security Guidelines](security-policy/guidelines/ml-secpol-guidelines.md)
 
