@@ -2,6 +2,8 @@ This repository provides a wealth of information on securing machine learning pr
 
 ### Table of Contents
 
+- [Agentic AI Threat Comparison](agentic-ai/CSA_agenticAI_vs_OWASP_agenticAI_threats.md)
+- [Agentic AI Lifecycle](agentic-ai/agentic-ai-lifecycle.md)
 - [Security Policy for Machine Learning Systems](security-policy/ml-secpol.md)
 - [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
 - [Tools for Securing Machine Learning](tools/ml-security-tools.md)
