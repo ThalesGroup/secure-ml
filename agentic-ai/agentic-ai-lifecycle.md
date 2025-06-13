@@ -20,7 +20,7 @@ Without a disciplined lifecycle, even well-intentioned agents can evolve into **
 ---
 
 🖼️ **Diagram Source**:  
-![Agentic AI Lifecycle](./agentic-ai-lifecycle.png)  
+![Agentic AI Lifecycle](../images/agentic-ai-lifecycle.png)  
 *Made with [Napkin](https://napkin.io)*
 
 ---
