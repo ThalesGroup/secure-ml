@@ -2,13 +2,13 @@ This repository provides a wealth of information on securing machine learning pr
 
 ### Table of Contents
 
-- [Agentic AI Threat Comparison](agentic-ai/CSA_agenticAI_vs_OWASP_agenticAI_threats.md)
-- [Agentic AI Lifecycle](agentic-ai/agentic-ai-lifecycle.md)
 - [Security Policy for Machine Learning Systems](security-policy/ml-secpol.md)
 - [Machine Learning Privacy-Preserving Techniques](privacy/ml-privacy-techniques.md)
 - [Tools for Securing Machine Learning](tools/ml-security-tools.md)
 - [Security Threats to Machine Learning](ml-threats/ml-threats.md)
 - [ML Security Regulations and Standards](ml-security-industry-references.md)
+- [Agentic AI Threat Comparison](agentic-ai/CSA_agenticAI_vs_OWASP_agenticAI_threats.md)
+- [Agentic AI Lifecycle](agentic-ai/agentic-ai-lifecycle.md)
 
 ## Security Policy for Machine Learning Systems
 
@@ -27,7 +27,19 @@ Available at [ML privacy-preserving techniques](privacy/ml-privacy-techniques.md
 
 ## Tools for Securing Machine Learning
 
-Discover essential security tools for source code vulnerability detection, comprehensive attack and defense tools, ML supply chain security solutions, and privacy and compliance tools. Additionally, explore techniques for securing Jupyter notebooks, ensuring robust protection for your data, code, and models. Embrace a holistic approach to cybersecurity and data privacy in your development and analysis workflows.
+Discover a comprehensive collection of **40+ open-source security tools** specifically curated for securing machine learning systems across the entire ML lifecycle. This curated list covers critical security domains including:
+
+- **Threat Modeling & Code Security**: AI system threat modeling, source code quality analysis, and third-party library vulnerability scanning
+- **Adversarial Security**: Attack and defense tools, backdoor detection, vulnerability benchmarking, and model robustness testing
+- **LLM Security**: Specialized vulnerability scanners and robustness assessment tools for Large Language Models
+- **Privacy & Compliance**: Differential privacy libraries, privacy risk quantification, and compliance toolkits
+- **Bias & Fairness**: Detection and mitigation tools for ensuring fairness in ML models
+- **Model Explainability**: Interpretability frameworks for understanding model predictions and decisions
+- **Data Quality & Validation**: Tools for data validation, label error detection, and quality profiling
+- **Monitoring & Drift Detection**: Continuous model validation, data drift detection, and post-deployment monitoring
+- **Data Version Control**: Version control systems for ML datasets and experiment tracking
+
+Each tool is carefully categorized and includes direct links to repositories, making it easy to integrate security best practices into your ML workflow. Whether you're securing Jupyter notebooks, scanning models for unsafe code, or implementing privacy-preserving techniques, this comprehensive toolkit provides essential resources for robust ML security.
 
 Available at [ML security tools](tools/ml-security-tools.md)
 
