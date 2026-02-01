@@ -75,4 +75,4 @@ You can view the full license text [here](https://creativecommons.org/licenses/b
 For further information or to contribute to this project, you can reach out to the following contacts:
 
 - **Project Leader and Key contributor:** Viswanath S Chirravuri  
-  [LinkedIn](https://www.linkedin.com/in/chviswanath/)
+  [LinkedIn](https://www.linkedin.com/in/vchirrav/)
