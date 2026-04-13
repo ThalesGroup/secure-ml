@@ -65,6 +65,6 @@
 - [OpenSource Giskard Library](https://legacy-docs.giskard.ai/en/stable/getting_started/index.html)
 
 ### Data Version Control & Lineage
-- [DVC - Data Version Control](https://github.com/iterative/dvc)
+- [DVC - Data Version Control](https://github.com/treeverse/dvc)
 
 *Disclaimer: Thales does not endorse the utilization of any specific tool. The reference to such tools is purely for illustrative and informational purposes, and their use should be exercised with discretion.*
