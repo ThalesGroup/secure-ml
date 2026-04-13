@@ -62,6 +62,7 @@
 - [Deepchecks - Tests for Continuous Validation of ML Models & Data](https://github.com/deepchecks/deepchecks)
 - [Evidently AI - ML Monitoring and Drift Detection](https://github.com/evidentlyai/evidently)
 - [NannyML - Post-Deployment ML Monitoring](https://github.com/NannyML/nannyml)
+- [OpenSource Giskard Library](https://legacy-docs.giskard.ai/en/stable/getting_started/index.html)
 
 ### Data Version Control & Lineage
 - [DVC - Data Version Control](https://github.com/iterative/dvc)
