@@ -49,6 +49,8 @@ A curated list of open-source libraries, tools, and frameworks for securing agen
 
 | Project | Maintainer | Description | License |
 |---------|-----------|-------------|---------|
+| [AgentShield](https://github.com/affaan-m/agentshield) | affaan-m | AI agent security scanner that detects vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as a CLI, GitHub Action, ECC plugin, and GitHub App integration. | MIT |
+| [Agent Scan](https://github.com/snyk/agent-scan) | Snyk | Security scanner for AI agents, MCP servers, and agent skills. | Apache 2.0 |
 | [Garak](https://github.com/NVIDIA/garak) | NVIDIA | LLM vulnerability scanner — the "nmap for LLMs." Probes for hallucination, data leakage, prompt injection, misinformation, toxicity, jailbreaks, and more. Supports Hugging Face, OpenAI, Cohere, Replicate, and custom REST endpoints. Extensible with custom probes and plugins. | Apache 2.0 |
 | [PyRIT](https://github.com/Azure/PyRIT) | Microsoft | Python Risk Identification Toolkit for generative AI. Automates red teaming with customizable attacker and evaluator LLMs. Structured framework for executing OWASP Top 10 attacks against AI systems. | MIT |
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | Promptfoo | Open-source LLM testing and red teaming platform. Adaptive attack generation, web-based workflows, and OWASP Top 10 compliance mapping built in. Surfaces jailbreaks, prompt injections, and safety regressions pre-deployment. | MIT |
