@@ -3,6 +3,10 @@
 ### Threat Modeling AI Systems
 - [PLOT4ai](https://plot4.ai/assessments/quick-check)
 
+### Agentic AI Security
+- [AgentShield - AI Agent Security Scanner](https://github.com/affaan-m/agentshield)
+- [Agent Scan - Security Scanner for AI Agents, MCP Servers and Agent Skills](https://github.com/snyk/agent-scan)
+
 ### ML Source Code Quality & Security
 - [CodeQL](https://codeql.github.com/)
 
